@@ -3,7 +3,7 @@ let client = AgoraRTC.createClient({ mode: 'rtc', codec: "vp8" })
 
 //#2
 let config = {
-    appid: null,
+    appid: '4144988c30714d18a7c1bbc65a70d4a4',
     token: null,
     uid: null,
     channel: 'testChannel',
